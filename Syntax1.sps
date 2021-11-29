@@ -1,4 +1,6 @@
 ﻿* Encoding: UTF-8.
+*make some changes for Git and Github
+
 GET
   FILE='P:\Policy and Research\Evaluations\General Election Evaluations\GE 44\2021 National Electors Study\Data\Datasets\NES_44_Wave 1_Dataset (October 22).sav'.
 DATASET NAME NesGE44w1 WINDOW=FRONT.
